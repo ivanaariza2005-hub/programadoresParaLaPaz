@@ -1,0 +1,6 @@
+¿Qué hace la ruta POST /reporte?
+Recibe un JSON con un campo mensaje, lo procesa y responde con otro JSON confirmando la recepción.
+
+¿Para qué sirve en una app comunitaria?
+Para que los vecinos puedan enviar reportes de problemas, sugerencias o alertas rápidas al administrador o comité vecinal.
+
