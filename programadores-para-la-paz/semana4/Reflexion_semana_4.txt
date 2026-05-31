@@ -1,0 +1,3 @@
+reflexion_semana4
+
+Es importante porque las comunidades que construyen sus propias herramientas con tecnologias abiertas dejan de depender de soluciones impuestas desde fuera y pueden adaptar la tecnologia al contexto de su problema. Ademas el conocimiento se vuelve compartido y cualquier persona de la comunidad puede entender, modificar o mejorar la herramienta. Esto fortalece la autonomía tecnológica y evita que los datos y decisiones queden atrapados en plataformas privadas. Al final no se trata de ahorrar dinero construyendo su propia herramienta sino de construir poder colectivo, transparencia y soberania digital desde un contexto local. 
