@@ -1,0 +1,5 @@
+{
+  "tipo": "Recolección de basura",
+  "descripcion": "El camión de basura no ha pasado en los últimos 3 días en el barrio Las Flores y hay acumulación de residuos."
+}
+
