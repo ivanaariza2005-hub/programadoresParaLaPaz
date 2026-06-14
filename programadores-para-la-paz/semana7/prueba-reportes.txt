@@ -1,0 +1,5 @@
+Cuando se abre la ruta GET /reportes desde el navegador o Postman, el servidor muestra todos los reportes que se han guardado hasta ese momento.
+
+Si todavía no se han agregado reportes, solo se verá una lista vacía: []
+
+En cambio, si ya se enviaron uno o más reportes usando POST, entonces GET muestra cada uno con su número de identificación (id), el tipo de problema y la descripción.
