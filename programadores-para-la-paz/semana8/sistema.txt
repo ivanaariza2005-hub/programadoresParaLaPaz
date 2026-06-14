@@ -1,0 +1,14 @@
+uname -a
+Muestra: nombre del kernel, nombre del equipo, versión del kernel, fecha de compilación, arquitectura, tipo de SO.
+Utilidad: Saber versión y arquitectura del sistema para instalar software compatible y diagnosticar errores.
+
+whoami 
+Muestra: nombre del usuario actual en la terminal.
+Utilidad: Confirmar permisos y evitar acciones accidentales con usuario incorrecto.
+
+Utilidad general al administrar un servidor
+Conocer el sistema (kernel, arquitectura, usuario activo) permite:
+- Instalar software compatible.
+- Diagnosticar errores según versión.
+- Aplicar parches de seguridad.
+- Evitar errores de permisos.
